@@ -2,7 +2,7 @@ enablePlugins(JavaAppPackaging)
 
 name := "webjars-file-service"
 
-scalaVersion := "3.8.1"
+scalaVersion := "3.8.2"
 
 scalacOptions ++= Seq(
   "-language:strictEquality",
